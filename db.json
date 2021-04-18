@@ -1,17 +1,15 @@
-[
-    {
-        "edificios": [
-            {
-                "id": 1,
-                "nombre": "Faro"
-            },
-            {
-                "id": 2,
-                "nombre": "Golf Towers"
-            }
-        ],
-        "profile": {
-            "name": "typicode"
+{
+    "edificios": [
+        {
+            "id": 1,
+            "nombre": "Faro"
+        },
+        {
+            "id": 2,
+            "nombre": "Golf Towers"
         }
+    ],
+    "profile": {
+        "name": "typicode"
     }
-]
+}
